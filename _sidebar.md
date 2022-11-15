@@ -1,10 +1,10 @@
 - 前言
     - [简介](zh-cn/README.md)
     
-- C++
+<!-- - Java
     - [基础](zh-cn/C++/base.md)
     - [函数](zh-cn/C++/func.md)
-    - [对象](zh-cn/C++/object.md)
+    - [对象](zh-cn/C++/object.md) -->
 
 - Python
     - [基础](zh-cn/Python/base.md)
